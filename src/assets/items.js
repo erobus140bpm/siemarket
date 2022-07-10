@@ -26,7 +26,7 @@ const items = [{
 {
     "title": "Facebook",
     "subtitle": "Siemarket Facebook",
-    "image": whatsapp,
+    "image": facebook,
     "link": "https://www.facebook.com/siemarket" //Telegram Pofile 
 },
 {
