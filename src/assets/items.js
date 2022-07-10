@@ -2,59 +2,44 @@ import website from '../assets/website.png'
 import instagram from '../assets/instagram.png'
 import linkedin from '../assets/linkedin.jpg'
 import youtube from '../assets/youtube.jpeg'
-import dribbble from '../assets/dribbble.png'
-import github from '../assets/github.png'
-import telegram from '../assets/telegram.png'
-import twitter from '../assets/twitter.png'
+import whatsapp from '../assets/whatsapp.png'
+import facebook from '../assets/facebook.png'
 
 const items = [{
     "title": "Website",
-    "subtitle": "Look at my work!",
+    "subtitle": "Sie Market!",
     "image": website,
-    "link": "https://sagniksahoo.codes" //your personal website or portfolio  link
+    "link": "https://siemarket.com" //your personal website or portfolio  link
 },
 {
-    "title": "GitHub",
-    "subtitle": "@heysagnik | 🏡 to all my open-source projects",
-    "image": github,
-    "link": "https://github.com/heysagnik" //Github Profile link
+    "title": "Whatsapp",
+    "subtitle": "Siemarket Whatsapp",
+    "image": whatsapp,
+    "link": "https://api.whatsapp.com/send?phone=905424115710&text=Merhaba." //Telegram Pofile 
 },
 {
     "title": "Instagram",
-    "subtitle": "@heysagnik |  Shots of my life 🙂",
+    "subtitle": "@siemarket |  Gelişen Zekanın Pazaryeri",
     "image": instagram,
-    "link": "https://instagram.com/heysagnik" //instagram profile link 
+    "link": "https://instagram.com/siemarket" //instagram profile link 
 },
 {
-    "title": "Twitter",
-    "subtitle": "@heysagnik | 😉",
-    "image": twitter,
-    "link": "https://twitter.com/heysagnik"// twitter profile link 
+    "title": "Facebook",
+    "subtitle": "Siemarket Facebook",
+    "image": whatsapp,
+    "link": "https://www.facebook.com/siemarket" //Telegram Pofile 
 },
 {
     "title": "LinkedIn",
-    "subtitle": "Know more about my profession 👨‍💼",
+    "subtitle": "Siemarket Linkedin 👨‍💼",
     "image": linkedin,
-    "link": "https://www.linkedin.com/in/heysagnik/" // linkedin
+    "link": "https://www.linkedin.com/in/geli%C5%9Fen-zekanin-pazaryeri-ab293b86/" // linkedin
 },
 {
     "title": "YouTube",
-    "subtitle": "CODER SAGNIK | Official channel of mine",
+    "subtitle": "Siemarket resmi youtube kanalı",
     "image": youtube,
-    "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"//youtube channel link 
-},
-
-{
-    "title": "Dribbble",
-    "subtitle": "@virtuonic | shots of dezigns ",
-    "image": dribbble,
-    "link": "https://dribbble.com/virtuonic" // Dribbble profile link 
-},
-{
-    "title": "Telegram",
-    "subtitle": "@heysagnik | Chat with me instantly ",
-    "image": telegram,
-    "link": "https://telegram.me/heysagnik" //Telegram Pofile 
+    "link": "https://www.youtube.com/channel/UCMAabLDic07GdlJSRRamjng"//youtube channel link 
 }]
 
 export default items
