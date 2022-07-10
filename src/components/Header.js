@@ -1,7 +1,7 @@
 import React from 'react'
 import SunIcon from './Icons/SunIcon'
 import MoonIcon from './Icons/MoonIcon'
-import avatar from '../assets/siemarket.png'
+import avatar from '../assets/siemarketicon.png'
 import '../css/skeleton.css'
 import '../css/normalize.css'
 import '../css/components.css'
